@@ -306,20 +306,6 @@ This project demonstrates applied capability in:
 
 ---
 
-## Repository Structure
-
-A recommended repository structure for this project:
-
-- `README.md`
-- `GAMEPLAN.xlsm`
-- `iMSCPM07_MNFT game_01_Launch.pdf`
-- `Introduction to participants_V2024.pdf`
-- `analysis/`
-- `figures/`
-- `presentation/`
-
----
-
 ## Academic Context
 
 Politecnico di Milano - Graduate School of Management  
